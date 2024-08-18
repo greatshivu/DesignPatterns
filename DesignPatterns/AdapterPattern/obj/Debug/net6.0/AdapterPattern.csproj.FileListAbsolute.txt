@@ -1,0 +1,14 @@
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\bin\Debug\net6.0\AdapterPattern.exe
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\bin\Debug\net6.0\AdapterPattern.deps.json
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\bin\Debug\net6.0\AdapterPattern.dll
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\bin\Debug\net6.0\AdapterPattern.pdb
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.dll
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\refint\AdapterPattern.dll
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.pdb
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+C:\Personal\Projects\dotnetcore\DesignPatterns\AdapterPattern\obj\Debug\net6.0\ref\AdapterPattern.dll
